@@ -1,1 +1,0 @@
-A lightweight Python Contact Management System designed to manage personal and professional contacts with options to add, edit, delete, and search entries, supported by a secure and organized database structure.
